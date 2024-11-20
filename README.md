@@ -6,7 +6,6 @@
   <p style="color: #555555; font-size: 18px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
     저와 함께 멋진 프로젝트를 만들어 보세요! 🚀
   </p>
-  <img src="https://via.placeholder.com/200" alt="Developer Image" style="border-radius: 50%; margin-top: 20px;">
 </div>
 
 <!--내용 부분-->
