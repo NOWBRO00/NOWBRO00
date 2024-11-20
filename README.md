@@ -1,6 +1,12 @@
 <!--타이틀 부분-->
-<div align="center">
-  안녕하세요 협업하는 개발자 이재형입니다!!!
+<div align="center" style="background-color: #f4f4f9; padding: 50px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <h1 style="color: #4CAF50; font-family: 'Arial', sans-serif; font-size: 40px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);">
+    안녕하세요 협업하는 개발자 이재형입니다!!!
+  </h1>
+  <p style="color: #555555; font-size: 18px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+    저와 함께 멋진 프로젝트를 만들어 보세요! 🚀
+  </p>
+  <img src="https://via.placeholder.com/200" alt="Developer Image" style="border-radius: 50%; margin-top: 20px;">
 </div>
 
 <!--내용 부분-->
