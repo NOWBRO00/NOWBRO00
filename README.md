@@ -43,7 +43,7 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://blog.naver.com/https://nowbro00">
+  <a href="https://blog.naver.com/https:nowbro00">
     <img src="https://img.shields.io/badge/Naver%20Blog-03C75D?style=for-the-badge&logo=naver&logoColor=white" />&nbsp;
   </a>
   <a href="mailto:oka1313@gmail.com">
