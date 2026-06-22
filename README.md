@@ -30,7 +30,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NOWBRO00&show_icons=true&theme=vue&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4CAF50&icon_color=4CAF50&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=NOWBRO00&show_icons=true&theme=vue&hide_border=true&bg_color=0d1117&title_color=4CAF50&icon_color=4CAF50&text_color=c9d1d9"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=NOWBRO00&theme=vue&hide_border=true&background=0d1117&ring=4CAF50&fire=4CAF50&currStreakLabel=4CAF50"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NOWBRO00&layout=compact&theme=vue&hide_border=true&bg_color=0d1117&title_color=4CAF50&text_color=c9d1d9&langs_count=8"/>
