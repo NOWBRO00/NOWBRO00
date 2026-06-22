@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:2E7D32&height=180&section=header&text=이재형&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=협업하는%20풀스택%20개발자&descAlignY=55&descAlign=62"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:2E7D32&height=180&section=header&text=이재형&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&fontAlign=50&desc=협업하는%20풀스택%20개발자&descAlignY=55&descAlign=50"/>
 
 <br/>
 
