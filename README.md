@@ -84,16 +84,6 @@
 
 <br/>
 
-### 📚 개인 학습 & 사이드 프로젝트
-
-| 프로젝트 | 설명 | 기술 스택 | 링크 |
-|:---:|:---|:---|:---:|
-| **PytionFolder** | Python 학습 및 실습 코드 모음 | `Python` | [Repo](https://github.com/NOWBRO00/PytionFolder) |
-| **python-calculator** | Python 계산기 프로젝트 | `Python` | [Repo](https://github.com/NOWBRO00/python-calculator) |
-| **likelion** | 멋쟁이사자처럼 CSS 실습 | `CSS` | [Repo](https://github.com/NOWBRO00/likelion) |
-
-<br/>
-
 ## 💼 Experience Highlights
 
 ```
