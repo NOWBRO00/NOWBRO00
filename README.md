@@ -68,7 +68,7 @@
 | **Ssak3 (싹쓰리)** | 교내 중고장터·심부름 도움 플랫폼. 카카오 OAuth 로그인, 사용자 인증·토큰 관리 | `React 19` `Spring Boot 3.5` `Java 17` `Gradle` | [Repo](https://github.com/NOWBRO00/Ssak3-) · [FE](https://github.com/NOWBRO00/SSAK3_frontend) · [BE](https://github.com/NOWBRO00/SSAK3_backend) |
 | **고래밥** | 낚시 예약·웹 커뮤니티. 상품 예약, 결제, 게시판, OpenAI 챗봇, 관리자 대시보드 | `Spring` `OpenAI API` `커뮤니티` `예약 시스템` | [Repo](https://github.com/NOWBRO00/korebap_final_project) |
 | **서산책** | 2025 한서대 멋쟁이사자처럼 중앙해커톤 5팀 프로젝트 | `React` `Firebase` `Zustand` `Framer Motion` | [Repo](https://github.com/NOWBRO00/hackerthon2025) |
-| **Weather Korean Pancake** | 날씨 정보 기반 한국식 팬케이크 레시피 추천·시각화 | `Python` `pandas` `matplotlib` `OpenWeatherMap` | [Repo](https://github.com/NOWBRO00/Weather-KoreanPancake) |
+| **Weather Korean Pancake** | 날씨 정보 기반 전(부침개) 검색어 상관관계 시각화 | `Python` `pandas` `matplotlib` `OpenWeatherMap` | [Repo](https://github.com/NOWBRO00/Weather-KoreanPancake) |
 
 <br/>
 
